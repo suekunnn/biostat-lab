@@ -1,0 +1,3 @@
+The app works because it accurately translates the biochemical concept of dose-response inhibition into a mathematical model. By the 4PL regression, the app fits a sigmoidal curve to the data and calculate the IC50. 
+
+I also learned that when I am required to use AI, it is necessary to give precise prompts and verify the output. For example, I had to confirm that the app correctly subtracts the blank fluorescence before normalizing the data. Without knowing the biochemical principles, I could not have determined whether the AI worked correctly.

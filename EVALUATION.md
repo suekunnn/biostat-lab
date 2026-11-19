@@ -1,0 +1,3 @@
+The AI successfully built a functional, browser-based IC50 calculator and adapted well to all my  follow-up requests. It accurately performed background subtraction and 4PL curve fitting, plotting the sigmoid curve on a log x-axis as requested. As requested, it successfully added support for Excel files and allowed multi-file uploads to compare different curves. It also successfully added a local "AI Comment" using logic rules, enlarged the font size, and added a trash bin to remove specific files.
+
+However, the app requires at least 4 data points with clear positive concentrations. If an experiment lacks enough concentration points or a clear plateau, which is common when testing crude extracts like our lab samples, the model may fail to give an accurate IC50.
